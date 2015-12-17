@@ -148,9 +148,9 @@ it could be a machine, a place, or a mobile application which interact with the 
 The cloud system can also uses detector component or even sensor to collect information about its
 context and reasons about the information.
 
-In this paper, we provide a structured overview of self-adaptation and approaches for SACS, 
+In this paper, we provide a structured overview of self-adaptation and approaches for SACS,
 and motivate the need for a new perspective on self-adaptation in pervasive computing systems.
-Our main contributions are as follows: 
+Our main contributions are as follows:
 First, we develop a taxonomy for self-adaptation cloud system that integrates existing views on self adaptation and specifically context-adaptive cloud systems, which are most relevant to pervasive computing.
 Second, we survey existing approaches for engineering SACS. Third, we discuss a new idea of SACS.
 
@@ -235,7 +235,10 @@ each part of component can manage itself, and it can also communicate with each 
 as the fully-decentralized system are often not well planned comparing to centralized system,
 there come out semi-decentralized system, which combine these two approach together,
 in order to address the disadvantage from both side, and also trying to adopt the advantage from both too.
-we can refer to \ref{fig:fig7}
+we can refer to \ref{fig:fig7}.Federation of geo-distributed cloud services which spanning multiple data
+centers at different geographical locations can provide a cloud platform with much larger capacities.
+the \cite{paper50} proposes efficient proactive algorithms for dynamic, optimal scaling of
+a social media application in a geo-distributed cloud by exploiting social influences among users.
 
 \begin{figure*}[!t]
 \begin{center}
@@ -265,8 +268,8 @@ some are fuzzy-based or probability-based, while others are accurate value with 
 There are always both functional and non-functional requirement in each software system,
 so does the self-adaptive cloud system, the adaptation result is to meet the functional requirement
 or the non-functional requirement is totally different approach.
-the non-functional approach is more-like a technical specific \cite{paper46}  while
-functional approach is including lots of business stuff in it, which lead to more complexity.
+the non-functional approach is more-like a technical specific \cite{paper46}.
+While functional approach includes lots of business stuff in it, which lead to more complexity.
 
 %{\subsubsection{Logic1}}
 %{\subsubsection{Logic2}}
@@ -382,7 +385,11 @@ of using External Feedback Loops to Improve Design to not(just internal factors)
 which proves that applying external feedback loops can reduce control flow
 complexity and fault density, and improve productivity.
 
-
+Today¡¯s networked environment is characterized by
+a wide variety of heterogeneous systems that dynamically decide
+to interoperate to achieve some goal.The \cite{paper43} improves their previous approach to meet not only the functional requirements but also
+the performance requirements.Their previous approach can automatically synthesizes connectors (or
+mediators) to reconcile protocols diversities and to allow systems interoperability.
 
 
 {\subsubsection{Service-oriented approaches}}
@@ -425,17 +432,17 @@ bound to the provided interfaces of other services. centered on the use of a gos
 protocol to achieve decentralized information dissemination and
 decision making in order to makes it able to fulfill the goal of best global QoS.
 
-\cite{paper41}  introduce a semantic similarity and semantic nearness service composition method. 
+\cite{paper41}  introduce a semantic similarity and semantic nearness service composition method.
 The objective of our work is to free
 service nodes from adherence to restrictive composition plans. It enables compositions to succeed in dynamic
-environments through a decentralized solution even when nodes are unaware of nearby service nodes.  
+environments through a decentralized solution even when nodes are unaware of nearby service nodes.
 \ref{fig:fig18}
 
 \begin{figure*}[!t]
 \includegraphics[scale=0.6]{figure18.png}
 \caption{
 \protect\\
-(a) System layers and overlay node architecture. 
+(a) System layers and overlay node architecture.
 \protect\\
 (b) Abstract SSON path for a successful service path composition
 \protect\\
@@ -623,7 +630,7 @@ of the performance exhibited by the provisioned underlying resources. \ref{fig:f
 \end{center}
 \end{figure}
 
-Some researches are focus on the performance tuning, 
+Some researches are focus on the performance tuning,
 e.g. \cite{paper3} said: it proposes an architecture for a
 self-adaptive prediction suite using an autonomic system
 approach. This suite can choose the most suitable prediction
@@ -633,7 +640,18 @@ prediction accuracy of auto-scaling systems can be increased by
 choosing an appropriate time-series prediction algorithm based
 on the performance pattern over time.
 
+MapReduce is a programming model to process
+a massive amount of data on cloud computing. By leaving
+programmers the choice of using a combiner, MapReduce
+has a risk of performance degradation because aggregating
+intermediate data benefits some applications but harms others.
+The \cite{paper44} proposes the 
+Adaptive Combiner for MapReduce (ACMR) to automatically,
+smartly, and trainer for getting a better performance
+without any interference of programmers.
 
+Real-time monitoring of cloud resources is crucial for a variety of tasks such as performance analysis, workload management, capacity planning and fault detection. Applications producing big data make the monitoring task very difficult at high sampling frequencies. 
+The \cite{paper48} presents an adaptive algorithm for monitoring big data applications that adapts the intervals of sampling and frequency of updates to data characteristics and administrator needs. Adaptivity allows us to limit computational and communication costs and to guarantee high reliability in capturing relevant load changes.
 
 {\subsubsection{SAAS}}
 
@@ -739,6 +757,8 @@ e.g. Anticipate is very important, we always do not have well debug environment 
 so we have to anticipant the potential functional defect and performance issue
 in order to prepare log and metrics such as performance benchmarks for
 production environment analysis instead of directly debugging on it \cite{paper29}.
+The \cite{paper38} concludes some lessons and applies those lessons to develop a lightweight
+composable/contextual DevOps framework that learns and measure itself to avoid those cultural pitfalls.
 
 
 CloudWave a smart middle for Devops in clouds, aiming to utilize the principles of DevOps to create an
@@ -848,6 +868,12 @@ restart + one local restart n = 2, E) Two offloading restarts
 + one local restart n = 3. etc...
 Pick the one with best performance, for corresponding tasks,
 and tune it using historical data.
+
+Motivated by the popularity of prefetch-friendly or delay-tolerant apps (e.g., social
+networking, app updates, cloud storage), the \cite{paper36} design and implement an application-layer transmission protocol, AppATP, which leverages
+cloud computing to manage data transmissions for mobile apps. Measurements show that significantly amount of energy is consumed by mobile devices during poor connectivity. Based on
+this observation, AppATP adaptively seizes periods of good bandwidth condition to prefetch frequently used data with minimum energy
+consumption, while deferring delay-tolerant data during poor network connectivity.
 
 The \cite{paper49} also use a genetic algorithm to automatically generate optimal application configurations, based on feature model, at runtime. This optimizes the configuration of the system at runtime according to the available resources. The approach does not entail excessive overhead, and helps the app coping with the resource constrained environment and optimizing its performance.
 
