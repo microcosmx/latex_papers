@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.19)  17 DEC 2015 13:20
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.19)  25 DEC 2015 12:49
 entering extended mode
 **E:/main/NEW_doctor/latex/article/latex_papers/work1/cloud.tex
 (E:/main/NEW_doctor/latex/article/latex_papers/work1/cloud.tex
@@ -635,42 +635,86 @@ Underfull \hbox (badness 2326) in paragraph at lines 872--877
 
  []
 
-<figure9.png, id=318, 629.35126pt x 419.31656pt>
+<figure19.png, id=318, 798.73407pt x 443.40656pt>
+File: figure19.png Graphic file (type png)
+ <use figure19.png>
+Package pdftex.def Info: figure19.png used on input line 893.
+(pdftex.def)             Requested size: 519.171pt x 288.21085pt.
+
+Overfull \hbox (1.23601pt too wide) in paragraph at lines 893--894
+ [] 
+ []
+
+<figure9.png, id=321, 629.35126pt x 419.31656pt>
 File: figure9.png Graphic file (type png)
  <use figure9.png>
-Package pdftex.def Info: figure9.png used on input line 894.
+Package pdftex.def Info: figure9.png used on input line 914.
 (pdftex.def)             Requested size: 503.48169pt x 335.45369pt.
 
-<figure10.png, id=320, 828.09375pt x 417.81094pt>
+<figure10.png, id=323, 828.09375pt x 417.81094pt>
 File: figure10.png Graphic file (type png)
  <use figure10.png>
-Package pdftex.def Info: figure10.png used on input line 929.
+Package pdftex.def Info: figure10.png used on input line 949.
 (pdftex.def)             Requested size: 496.86009pt x 250.68849pt.
 
-Underfull \hbox (badness 1776) in paragraph at lines 935--939
+Underfull \hbox (badness 1776) in paragraph at lines 955--959
 \OT1/ppl/m/n/9.53561 based on three di-men-sion-s: Time, Lo-ca-tion and Per-
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 973--974
+[]\OT1/ppl/m/n/9.53561 analysis us-er sit-u-a-tion based on
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 980--981
+[]\OT1/ppl/m/n/9.53561 comments on wi-k-i on-line and of-
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 980--981
+\OT1/ppl/m/n/9.53561 fline(locally and push once net-work
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 1001--1002
+[]\OT1/ppl/m/n/9.53561 pre-offloading to mo-bile un-der spe-cif-ic
+ []
+
+[11]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+
+Overfull \vbox (15.5431pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 12 contains only floats.
+
+
+Overfull \vbox (15.5431pt too high) has occurred while \output is active []
+
+
+[12 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure19.png (PNG copy
+)> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure9.png (PNG copy)>
+]
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¹ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¦ in font pplr7t!
-[11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+ [13 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure10.png (PNG cop
+y)>]
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no § in font pplr7t!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure9.png (PNG copy
-)> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure10.png (PNG copy)
->]
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¹ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ä in font pplr7t!
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ä in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
@@ -680,21 +724,21 @@ Missing character: There is no ¦ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¢ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+ [14]
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no § in font pplr7t!
-
-Underfull \vbox (badness 1221) has occurred while \output is active []
-
- [13]
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 
-Underfull \hbox (badness 3657) in paragraph at lines 1208--1210
+Underfull \hbox (badness 3657) in paragraph at lines 1277--1279
 \OT1/ppl/m/n/8.03 J.-M. Lo-ingti-er, J. Ir-win, Aspect-oriented pro-gram-ming, 
 in:
  []
@@ -702,32 +746,32 @@ in:
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 
-Underfull \hbox (badness 1400) in paragraph at lines 1211--1213
+Underfull \hbox (badness 1400) in paragraph at lines 1280--1282
 []\OT1/ppl/m/n/8.03 G. Kicza-les, E. Hils-dale, J. Hugunin, M. K-er-sten, J. Pa
 lm,
  []
 
 Missing character: There is no ¨ in font pplr7t!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1222.
-[14
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1291.
+[15
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1222.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1291.
  (E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1222.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1222.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1291.
 
 Package rerunfilecheck Info: File `cloud.out' has not changed.
-(rerunfilecheck)             Checksum: 6F9BE750519F88FCA0F772945BE4A5F9;1677.
+(rerunfilecheck)             Checksum: 2855D314F3F6B7BEA3EA18A777937811;1677.
  ) 
 Here is how much of TeX's memory you used:
- 7969 strings out of 495354
- 122343 string characters out of 3183858
- 230630 words of memory out of 3000000
- 10913 multiletter control sequences out of 15000+200000
+ 7982 strings out of 495354
+ 122492 string characters out of 3183858
+ 230699 words of memory out of 3000000
+ 10918 multiletter control sequences out of 15000+200000
  44649 words of font info for 97 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
- 36i,8n,42p,929b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,8n,42p,929b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
 i10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTe
@@ -740,9 +784,9 @@ s/type1/urw/helvetic/uhvro8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/palatino/uplb8
 a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/CTEX/MiKTeX/fonts
 /type1/urw/palatino/uplri8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/zapfding/uzdr.p
 fb>
-Output written on cloud.pdf (14 pages, 2054472 bytes).
+Output written on cloud.pdf (15 pages, 2441058 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
- 307 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 457 PDF objects out of 1000 (max. 8388607)
+ 144 named destinations out of 1000 (max. 500000)
+ 312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
