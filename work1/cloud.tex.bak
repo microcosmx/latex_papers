@@ -351,6 +351,11 @@ layer has different components, which define adaptation plans. \ref{fig:fig5}
 \end{center}
 \end{figure}
 
+\cite{paper68} presents the REFRACT framework.In their prior work, they developed algorithms and
+conducted a post-hoc analysis demonstrating the possibility
+of adapting to software failures by judiciously changing
+configurations.REFRACT realizes this idea by building on the self-adaptive Rainbow architecture \cite{paper57}.
+
 As architect level is a kind of high level of a software system, but it also
 consist of the implementation of different functional unit detail, so some paper
 \cite{paper12} also considered: What is the
@@ -548,6 +553,17 @@ browser(user) fingerprint tracking system on the internet, which can more or les
 
 \cite{paper32} start a comparative study between the requirement-based adaptive system
 and the architect-based system.
+
+Building and deploying cloud applications is a challenging
+problem which requires a significant amount of expertise:
+the system architect must ensure that all component dependencies
+are satisfied, avoid conflicting components, and add the right amount of component replicas to account for quality
+of service and fault-tolerance. \cite{paper65} presents a tool that automates the assembly and
+deployment of such complex distributed applications.
+
+\cite{paper67} implements AUToCLES, a tool for automatic testing of cloud-based elastic systems.
+Given specifications of the test suite and the system under test, AUToCLES automatically instantiates the SUT,
+configures the testing scaffoldings, and automatically executes test suites.
 
 {\subsection{Cloud System Specific}}
 
@@ -877,9 +893,30 @@ consumption, while deferring delay-tolerant data during poor network connectivit
 
 The \cite{paper49} also use a genetic algorithm to automatically generate optimal application configurations, based on feature model, at runtime. This optimizes the configuration of the system at runtime according to the available resources. The approach does not entail excessive overhead, and helps the app coping with the resource constrained environment and optimizing its performance.
 
-The  presents
-a cloud-based platform to ease the development of context-aware mobile applications by people without programming
-skills
+The \cite{paper53} presents and MCC end user programming sample,
+a cloud-based platform to ease the development of context-aware
+mobile applications by people without programming skills.
+we can refer to its user interface to see. \ref{fig:fig19}
+
+The \cite{paper66} presents Cloud Twin to make mobile applications cross-platform. Cloud Twin natively executes the functionality of a mobile application written for
+another platform. It emulates the behaviour of Android applications on
+a Windows Phone and transmits the UI actions performed
+on the Windows Phone to the cloud server, which then mimics
+the received actions on the Android emulator.
+
+The platform has been designed to be used in a tourism domain. This way, tourism experts
+can send tourist information to mobile users according to their context data (indoor/outdoor location, language,
+and date and time range). An energy-efficient mobile app has been developed in order to obtain context data
+from the user's device and to receive personalized information in real time based on these data. The architecture
+and implementation details of the system are presented and the evaluation of the platform by tourism domain
+experts is discussed.
+\begin{figure*}[!t]
+\begin{center}
+\includegraphics[scale=0.65]{figure19.png}
+\caption{The user interface of the platform}
+\label{fig:fig19}
+\end{center}
+\end{figure*}
 
 
 {\subsubsection{Hybrid}}
@@ -947,6 +984,56 @@ Following below MCC rules:
 \item Programming Logic
 \item Hybrid
 \end{itemize}
+
+We are now thinking of several scenario for this new idea, for example:
+
+\begin{enumerate}
+
+    \item online wiki system
+
+    \begin{itemize}
+        \item analysis user situation based on time/location/habit
+        \item predict user's behavior based on historical data via time/loc/action
+        \item time: which day of the week, go to work or back to home etc ...
+        \item location: railway, shopping mall, office? not just latitude
+        \item behaviors
+        \begin{itemize}
+            \item search interested wiki topic online and offline(pre-offloading when network and battery is not OK)
+            \item comments on wiki online and offline(locally and push once network ready)
+            \item post own wiki topic and content (offline when network is not stable,
+            submit all the posted topic and content once when network ready)
+        \end{itemize}
+    \end{itemize}
+
+    \item online shopping system
+    \begin{itemize}
+        \item offline goods searching
+        \item offline shopping cart
+        \item offline purchase and payment process
+    \end{itemize}
+
+    \item online weibo system
+    \begin{itemize}
+        \item similar with online wiki system
+        \item plus with offline private mail which may use cloudlet to address
+    \end{itemize}
+
+    \item online and offline search engine
+    \begin{itemize}
+        \item pre-offloading to mobile under specific time/loc/action
+        \item offload only related data and search on these data offline
+        \item battery low will shrink the usage of network(sync to async to disable)
+    \end{itemize}
+
+    \item online book system
+    \begin{itemize}
+        \item offline searching for books (pre-offloading category)
+        \item offline reading( pre-offloading book content o mobile for specific books)
+        \item offloading corresponding chapter of the book following the reader's reading history,
+        offloading the related content according to the specific chapter
+    \end{itemize}
+
+\end{enumerate}
 
 
 {\section{Conclusion}}
@@ -1188,9 +1275,8 @@ Asif Qumer Gill, Adaptive Cloud Enterprise Architecture, World Scientific 2015.
 Jin Gou, Wang-Ping Guo, Feng Hou, Cheng Wang, Yi-Qiao Cai:
 Adaptive differential evolution with directional strategy and cloud model. Appl. Intell. 42(2): 369-388 (2015)
 \bibitem{paper53}
-Xiang T. R. Kong, Ji Fang, Hao Luo, George Q. Huang,
-Cloud-enabled real-time platform for adaptive planning and control in auction logistics center.
-Computers and Industrial Engineering 2015
+David Martin, Carlos Lamsfus, Aurkene Alzua-Sorzabal:
+A cloud-based platform to develop context-aware mobile applications by domain experts. Computer Standards and Interfaces 44: 177-184 (2016)
 \bibitem{paper54}
 Antonio Brogi, Jos谷 Carrasco, Javier Cubo, Elisabetta Di Nitto, Francisco Dur芍n, Michela Fazzolari, Ahmad Ibrahim, Ernesto Pimentel, Jacopo Soldani, PengWei Wang, Francesco D'Andria:
 Adaptive management of applications across multiple clouds: The SeaClouds Approach. CLEI Electron. J. 18(1) (2015)
@@ -1218,9 +1304,27 @@ in: LNCS, vol. 2072, Springer, 2001, pp. 327每354.
 \bibitem{paper63}
 R. Haesevoets, E. Truyen, T. Holvoet, W. Joosen, Weaving the fabric of the control loop through aspects, in: Self-Organizing Architectures, in: LNCS,
 vol. 6090, Springer, 2009, pp. 38每65.
+\bibitem{paper64}
+W. Weimer, Z. P. Fry, and S. Forrest, Leveraging Program Equivalence for Adaptive Program Repair: Models and First Results, in: Automated Software Engineering,
+ September, 2013,pp. 356-366.
+\bibitem{paper65}
+R. D. Cosmo, M. Lienhardt, R. Treinen, S. Zacchiroli, J. Zwolakowski, A. Eiche, and A. Agahi, Automated synthesis and deployment
+of cloud applications, in Automated software engineering, September, 2014, pp. 211每222.
+\bibitem{paper66}
+E. Holder, E. Shah, M. Davoodi, and E. Tilevich, Cloud twin: Native
+execution of Android applications on the Windows Phone, in Automated
+Software Engineering, November, 2013, pp. 598每603.
+\bibitem{paper67}
+A. Gambi, W. Hummer,and S. Dustdar, Automated testing of cloud-based elastic systems with AUToCLES, in: Automated Software Engineering,
+November, 2013, pp. 714-717.
+\bibitem{paper68}
+J. Swanson, M. B. Cohen, M. B. Dwyer, B. J. Garvin and J. Firestone, Beyond the Rainbow: Self-Adaptive Failure Avoidance in
+Configurable Systems, in: Foundations of Software Engineering (SIGSOFT FSE), November, 2014, pp. 377-388.
+\bibitem{paper69}
+Chang Xu, Wenhua Yang, Xiaoxing Ma, Chun Cao, and Jian L邦, Environment Rematching:
+Toward Dependability Improvement for Self-Adaptive Applications,in: Automated Software Engineering, November, 2013, pp. 592-597.
 
 \end{thebibliography}
-
 
 
 % that's all folks
