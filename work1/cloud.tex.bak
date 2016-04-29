@@ -390,6 +390,14 @@ of using External Feedback Loops to Improve Design to not(just internal factors)
 which proves that applying external feedback loops can reduce control flow
 complexity and fault density, and improve productivity.
 
+ConceptCloud\cite{paper70} is an interactive browser for SVN and Git repositories.
+Its main novelty is the combination of an intuitive tag cloud
+interface with an underlying concept lattice that provides a formal
+structure for navigation. This combination allows users to explore
+repositories serendipitously, without predefined search goals and
+along different navigation paths.
+
+
 Today¡¯s networked environment is characterized by
 a wide variety of heterogeneous systems that dynamically decide
 to interoperate to achieve some goal.The \cite{paper43} improves their previous approach to meet not only the functional requirements but also
@@ -904,6 +912,13 @@ a Windows Phone and transmits the UI actions performed
 on the Windows Phone to the cloud server, which then mimics
 the received actions on the Android emulator.
 
+Weave Droid\cite{paper69} is an Android application that makes Aspect-Oriented Programming (AOP) on Android devices possible
+and user-friendly. It allows to retrieve applications and aspects and weave them together in several ways. Applications and aspects can be loaded from Google Play, personal
+repositories, or the local memory of a device. Then, two
+complementary weaving modes are provided: local or remote, using the embedded aspect compiler or the compiler
+in the cloud, respectively.
+
+
 The platform has been designed to be used in a tourism domain. This way, tourism experts
 can send tourist information to mobile users according to their context data (indoor/outdoor location, language,
 and date and time range). An energy-efficient mobile app has been developed in order to obtain context data
@@ -1034,6 +1049,9 @@ We are now thinking of several scenario for this new idea, for example:
     \end{itemize}
 
 \end{enumerate}
+
+These scenario are the candidates we plan to move on to investigate.
+The main goal is to enhance the user experience.
 
 
 {\section{Conclusion}}
@@ -1309,7 +1327,7 @@ W. Weimer, Z. P. Fry, and S. Forrest, Leveraging Program Equivalence for Adaptiv
  September, 2013,pp. 356-366.
 \bibitem{paper65}
 R. D. Cosmo, M. Lienhardt, R. Treinen, S. Zacchiroli, J. Zwolakowski, A. Eiche, and A. Agahi, Automated synthesis and deployment
-of cloud applications, in Automated software engineering, September, 2014, pp. 211¨C222.
+of cloud applications, in: Automated software engineering, September, 2014, pp. 211¨C222.
 \bibitem{paper66}
 E. Holder, E. Shah, M. Davoodi, and E. Tilevich, Cloud twin: Native
 execution of Android applications on the Windows Phone, in Automated
@@ -1321,8 +1339,10 @@ November, 2013, pp. 714-717.
 J. Swanson, M. B. Cohen, M. B. Dwyer, B. J. Garvin and J. Firestone, Beyond the Rainbow: Self-Adaptive Failure Avoidance in
 Configurable Systems, in: Foundations of Software Engineering (SIGSOFT FSE), November, 2014, pp. 377-388.
 \bibitem{paper69}
-Chang Xu, Wenhua Yang, Xiaoxing Ma, Chun Cao, and Jian L¨¹, Environment Rematching:
-Toward Dependability Improvement for Self-Adaptive Applications,in: Automated Software Engineering, November, 2013, pp. 592-597.
+Yli¨¨s Falcone, Sebastian Currea, Weave Droid: Aspect-Oriented Programming on Android Devices, in: Automated software engineering, September, 2012,
+ pp. 350-353.
+\bibitem{paper70}
+G. J. Greene and B. Fischer, ConceptCloud: A Tagcloud Browser for Software Archives, in: Foundations of Software Engineering (SIGSOFT FSE), November, 2014, pp. 759-762
 
 \end{thebibliography}
 

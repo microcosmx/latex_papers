@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.15)  28 DEC 2015 19:37
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.19)  12 FEB 2016 14:31
 entering extended mode
-**D:/gitcode/latex_papers/work1/cloud.tex
-(D:/gitcode/latex_papers/work1/cloud.tex
+**cloud.tex
+(E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(D:\gitcode\latex_papers\work1\IEEEtran.cls
+(E:\main\NEW_doctor\latex\article\latex_papers\work1\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -17,7 +17,7 @@ Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 503.
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\ot1ppl.fd"
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 -- Using IEEE Computer Society mode.
@@ -114,24 +114,24 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
 \IEEEPARstartletwidth=\dimen125
 \c@IEEEbiography=\count93
 \@IEEEtranrubishbin=\box27
-) ("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+) (C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen126
 ))
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen127
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
+(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count94
@@ -172,31 +172,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+(C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def"
+(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count106
@@ -204,21 +204,21 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen135
 \Gin@req@width=\dimen136
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\tools\verbatim.sty"
+(C:\CTEX\MiKTeX\tex\latex\tools\verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks21
 \verbatim@line=\toks22
 \verbatim@in@stream=\read1
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\graphics\color.sty"
+(C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-("D:\Program Files (x86)\CTEX\UserData\tex\latex\subfigure\subfigure.sty"
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip47
 \subfigcapskip=\skip48
@@ -234,17 +234,17 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-("D:\Program Files (x86)\CTEX\UserData\tex\latex\subfigure\subfigure.cfg")
+(C:\CTEX\UserData\tex\latex\subfigure\subfigure.cfg)
 \subfig@top=\skip51
 \subfig@bottom=\skip52
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty"
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty"
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
 Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty"
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
 Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -281,22 +281,23 @@ Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
 Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
 Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
-) ("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty"
+)
+(C:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 )
 \@linkdim=\dimen139
 \Hy@linkcounter=\count111
 \Hy@pagecounter=\count112
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def"
+(C:\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count113
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg"
+(C:\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4046.
@@ -308,7 +309,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4284.
 \c@Hy@tempcnt=\count114
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty"
+(C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -332,27 +333,27 @@ LaTeX Info: Redefining \pageref on input line 5831.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def"
+(C:\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
 \Fld@listcount=\count119
 \c@bookmark@seq@number=\count120
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty"
+(C:\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip53
 )
-("D:\Program Files (x86)\CTEX\UserData\tex\latex\cite\cite.sty"
+(C:\CTEX\UserData\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-("D:\Program Files (x86)\CTEX\UserData\tex\latex\caption\caption.sty"
+(C:\CTEX\UserData\tex\latex\caption\caption.sty
 Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
 
-("D:\Program Files (x86)\CTEX\UserData\tex\latex\caption\caption3.sty"
+(C:\CTEX\UserData\tex\latex\caption\caption3.sty
 Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen142
@@ -383,7 +384,7 @@ x to\hsize {\normalfont \sffamily \footnotesize \box \@tempboxa \hfil }\fi \fi
 \c@ContinuedFloat=\count121
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
-) (D:\gitcode\latex_papers\work1\cloud.aux)
+) (E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
@@ -400,7 +401,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
 
 -- Lines per column: 61 (exact).
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
+(C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count122
 \scratchdimen=\dimen149
@@ -416,10 +417,10 @@ LaTeX Font Info:    ... okay on input line 59.
 )
 \AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 59.
- ("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty"
+ (C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty"
+(C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
@@ -427,15 +428,16 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 59.
 LaTeX Info: Redefining \pageref on input line 59.
 LaTeX Info: Redefining \nameref on input line 59.
-(D:\gitcode\latex_papers\work1\cloud.out)
-(D:\gitcode\latex_papers\work1\cloud.out)
+
+(E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.out)
+(E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.out)
 \@outlinefile=\write3
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 110.
 
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd"
+(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
@@ -444,7 +446,7 @@ LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 11
 0.
 LaTeX Font Info:    Try loading font information for U+pzd on input line 110.
 
-("D:\Program Files (x86)\CTEX\MiKTeX\tex\latex\psnfss\upzd.fd"
+(C:\CTEX\MiKTeX\tex\latex\psnfss\upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 110.
@@ -459,15 +461,14 @@ File: figure1.png Graphic file (type png)
  <use figure1.png>
 Package pdftex.def Info: figure1.png used on input line 175.
 (pdftex.def)             Requested size: 476.38039pt x 331.23795pt.
- [1{D:/Program Files (x86)/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{
-UGBK.sfd}}
+ [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
 
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 188.
-
-[2 <D:/gitcode/latex_papers/work1/figure1.png (PNG copy)>]
+ [2 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure1.png (PNG copy)
+>]
 <figure7.png, id=153, 548.0475pt x 133.24782pt>
 File: figure7.png Graphic file (type png)
  <use figure7.png>
@@ -495,19 +496,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
-[3 <D:/gitcode/latex_papers/work1/figure3.png (PNG copy)>]
+[3 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure3.png (PNG copy)>
+]
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
- [4 <D:/gitcode/latex_papers/work1/figure7.png (PNG copy)> <D:/gitcode/latex_pa
-pers/work1/figure5.png (PNG copy)>] <figure18.png, id=201, 898.85812pt x 308.65
-312pt>
+ [4 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure7.png (PNG copy)
+> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure5.png (PNG copy)>]
+ <figure18.png, id=201, 898.85812pt x 308.65312pt>
 File: figure18.png Graphic file (type png)
-
-<use figure18.png>
+ <use figure18.png>
 Package pdftex.def Info: figure18.png used on input line 455.
 (pdftex.def)             Requested size: 539.31903pt x 185.1933pt.
 
@@ -526,22 +527,22 @@ File: figure15.png Graphic file (type png)
  <use figure15.png>
 Package pdftex.def Info: figure15.png used on input line 513.
 (pdftex.def)             Requested size: 243.46143pt x 185.64499pt.
- [5 <D:/gitcode/latex_papers/work1/figure8.png (PNG copy)> <D:/gitcode/latex_pa
-pers/work1/figure15.png (PNG copy)>] <figure4.png, id=231, 720.44156pt x 462.22
-687pt>
+ [5 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure8.png (PNG copy)
+> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure15.png (PNG copy)>
+]
+<figure4.png, id=231, 720.44156pt x 462.22687pt>
 File: figure4.png Graphic file (type png)
-
-<use figure4.png>
+ <use figure4.png>
 Package pdftex.def Info: figure4.png used on input line 611.
 (pdftex.def)             Requested size: 432.26826pt x 277.33826pt.
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
- <figure11.png, id=234, 335.00156pt x 262.73157pt>
-File: figure11.png Graphic file (type png)
 
-<use figure11.png>
+<figure11.png, id=234, 335.00156pt x 262.73157pt>
+File: figure11.png Graphic file (type png)
+ <use figure11.png>
 Package pdftex.def Info: figure11.png used on input line 627.
 (pdftex.def)             Requested size: 234.49948pt x 183.91083pt.
 Missing character: There is no ¡ in font pplr7t!
@@ -566,16 +567,18 @@ File: figure2.png Graphic file (type png)
  <use figure2.png>
 Package pdftex.def Info: figure2.png used on input line 651.
 (pdftex.def)             Requested size: 224.26076pt x 125.3421pt.
- [6 <D:/gitcode/latex_papers/work1/figure18.png (PNG copy)>]
+ [6 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure18.png (PNG copy
+)>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <D:/gitcode/latex_papers/work1/figure4.png (PNG copy)> <D:/gitcode/latex_pap
-ers/work1/figure11.png (PNG copy)> <D:/gitcode/latex_papers/work1/figure12.png 
-(PNG copy)>]
+[7 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure4.png (PNG copy)>
+ <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure11.png (PNG copy)> 
+<E:/main/NEW_doctor/latex/article/latex_papers/work1/figure12.png (PNG copy)>]
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
- <figure6.png, id=268, 431.36156pt x 288.3272pt>
+
+<figure6.png, id=268, 431.36156pt x 288.3272pt>
 File: figure6.png Graphic file (type png)
  <use figure6.png>
 Package pdftex.def Info: figure6.png used on input line 739.
@@ -586,8 +589,8 @@ Overfull \hbox (5.87393pt too wide) in paragraph at lines 739--740
  []
 
 Missing character: There is no ¨ in font pplr7t!
-[8 <D:/gitcode/latex_papers/work1/figure2.png (PNG copy)> <D:/gitcode/latex_pap
-ers/work1/figure6.png (PNG copy)>]
+[8 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure2.png (PNG copy)>
+ <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure6.png (PNG copy)>]
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¯ in font pplr7t!
 
@@ -616,8 +619,8 @@ Package pdftex.def Info: figure17.png used on input line 844.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <D:/gitcode/latex_papers/work1/figure17.png (PNG copy)>]
-<figure13.png, id=316, 386.19281pt x 270.25969pt>
+[9 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure17.png (PNG copy)
+>] <figure13.png, id=316, 386.19281pt x 270.25969pt>
 File: figure13.png Graphic file (type png)
  <use figure13.png>
 Package pdftex.def Info: figure13.png used on input line 883.
@@ -628,8 +631,9 @@ Underfull \vbox (badness 1783) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <D:/gitcode/latex_papers/work1/figure14.png (PNG copy)> <D:/gitcode/latex_
-papers/work1/figure16.png (PNG copy)>]
+ [10 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure14.png (PNG cop
+y)> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure16.png (PNG copy
+)>]
 Underfull \hbox (badness 2326) in paragraph at lines 896--901
 \OT1/ppl/m/n/9.53561 delay-tolerant app-s (e.g., so-cial net-work-ing, ap-p up-
 
@@ -661,7 +665,8 @@ Underfull \hbox (badness 1776) in paragraph at lines 992--996
 \OT1/ppl/m/n/9.53561 based on three di-men-sion-s: Time, Lo-ca-tion and Per-
  []
 
-[11 <D:/gitcode/latex_papers/work1/figure13.png (PNG copy)>]
+[11 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure13.png (PNG copy
+)>]
 
 LaTeX Warning: Text page 12 contains only floats.
 
@@ -676,8 +681,9 @@ LaTeX Warning: Text page 12 contains only floats.
 Overfull \vbox (15.5431pt too high) has occurred while \output is active []
 
 
-[12 <D:/gitcode/latex_papers/work1/figure19.png (PNG copy)> <D:/gitcode/latex_p
-apers/work1/figure9.png (PNG copy)>]
+[12 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure19.png (PNG copy
+)> <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure9.png (PNG copy)>
+]
 Underfull \hbox (badness 10000) in paragraph at lines 1010--1011
 []\OT1/ppl/m/n/9.53561 analysis us-er sit-u-a-tion based on
  []
@@ -693,11 +699,12 @@ Underfull \hbox (badness 3701) in paragraph at lines 1017--1018
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 1038--1039
+Underfull \hbox (badness 5548) in paragraph at lines 1040--1041
 []\OT1/ppl/m/n/9.53561 pre-offloading to mo-bile un-der spe-cif-ic
  []
 
-[13 <D:/gitcode/latex_papers/work1/figure10.png (PNG copy)>]
+[13 <E:/main/NEW_doctor/latex/article/latex_papers/work1/figure10.png (PNG copy
+)>]
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¹ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
@@ -729,7 +736,7 @@ Missing character: There is no ¯ in font pplr7t!
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 
-Underfull \hbox (badness 3657) in paragraph at lines 1314--1316
+Underfull \hbox (badness 3657) in paragraph at lines 1319--1321
 \OT1/ppl/m/n/8.03 J.-M. Lo-ingti-er, J. Ir-win, Aspect-oriented pro-gram-ming, 
 in:
  []
@@ -737,7 +744,7 @@ in:
 Missing character: There is no ¡ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 
-Underfull \hbox (badness 1400) in paragraph at lines 1317--1319
+Underfull \hbox (badness 1400) in paragraph at lines 1322--1324
 []\OT1/ppl/m/n/8.03 G. Kicza-les, E. Hils-dale, J. Hugunin, M. K-er-sten, J. Pa
 lm,
  []
@@ -745,43 +752,50 @@ lm,
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
 Missing character: There is no ¨ in font pplr7t!
-Missing character: There is no ¨ in font pplr7t!
-Missing character: There is no ¨ in font pplr7t!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1348.
-[15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1348.
- (D:\gitcode\latex_papers\work1\cloud.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1348.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1348.
 
-Package rerunfilecheck Info: File `cloud.out' has not changed.
-(rerunfilecheck)             Checksum: 2855D314F3F6B7BEA3EA18A777937811;1677.
+Underfull \vbox (badness 1603) has occurred while \output is active []
+
+Missing character: There is no ¨ in font pplr7t!
+Missing character: There is no ¨ in font pplr7t!
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1353.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1353.
+
+(E:\main\NEW_doctor\latex\article\latex_papers\work1\cloud.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1353.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1353.
+
+
+
+Package rerunfilecheck Warning: File `cloud.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cloud.out':
+(rerunfilecheck)             Before: 73B0CE3EFDE3F6B21632044D8EF104C4;4098
+(rerunfilecheck)             After:  2855D314F3F6B7BEA3EA18A777937811;1677.
  ) 
 Here is how much of TeX's memory you used:
  7996 strings out of 495354
- 124113 string characters out of 3182738
- 229910 words of memory out of 3000000
+ 122639 string characters out of 3183858
+ 228910 words of memory out of 3000000
  10925 multiletter control sequences out of 15000+200000
  44649 words of font info for 97 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
- 36i,8n,42p,907b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/Program Files (x86)/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/Progr
-am Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Progra
-m Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program
- Files (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Program F
-iles (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Fil
-es (x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program Files 
-(x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files (
-x86)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files (x8
-6)/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Program Files (x86)
-/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Program Files (x86)/CTEX/M
-iKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Program Files (x86)/CTEX/MiKTeX/f
-onts/type1/urw/helvetic/uhvro8a.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/t
-ype1/urw/palatino/uplb8a.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/ur
-w/palatino/uplr8a.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/urw/palat
-ino/uplri8a.pfb><D:/Program Files (x86)/CTEX/MiKTeX/fonts/type1/urw/zapfding/uz
-dr.pfb>
-Output written on cloud.pdf (15 pages, 2445937 bytes).
+ 36i,8n,42p,877b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/CTEX/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvb
+8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/CTEX/MiKTeX/font
+s/type1/urw/helvetic/uhvro8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/palatino/uplb8
+a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/CTEX/MiKTeX/fonts
+/type1/urw/palatino/uplri8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/zapfding/uzdr.p
+fb>
+Output written on cloud.pdf (15 pages, 2448480 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  151 named destinations out of 1000 (max. 500000)
